@@ -1,7 +1,7 @@
 {
   "leadId": "PL-037",
   "businessName": "Professor Dr Sajid Abaidullah",
-  "nicheId": "all niches",
+  "nicheId": "clinic",
   "category": "Doctor",
   "phone": "04235408468",
   "whatsapp": "924235408468",
@@ -17,6 +17,6 @@
   "yearsExperience": 5,
   "workingHours": "Open today · Reply on WhatsApp fast",
   "taglineOverride": "",
-  "about": "Professor Dr Sajid Abaidullah provides trusted all niches services in Lahore.",
+  "about": "Professor Dr Sajid Abaidullah provides trusted clinic services in Lahore.",
   "urduSupport": true
 }
